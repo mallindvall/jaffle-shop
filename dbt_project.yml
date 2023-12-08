@@ -41,3 +41,5 @@ models:
       +schema: "raw"
     base:
       +schema: "base"
+    analytics:
+      +schema: "analytics"
