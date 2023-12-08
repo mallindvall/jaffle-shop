@@ -39,4 +39,5 @@ models:
   jaffle_shop:
     +materialized: table
     raw:
+      +schema: raw
       +materialized: table
